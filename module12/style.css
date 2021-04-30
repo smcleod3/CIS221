@@ -82,8 +82,8 @@ this will be centered on the page*/
     min-height: calc(100vh - 6px);
     grid-template-areas: "header" 
                         "side-left" 
-						"main"
-						"side-right" 
+			"main"
+			"side-right" 
                         "footer";
 }
 
